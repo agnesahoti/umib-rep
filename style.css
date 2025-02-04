@@ -364,6 +364,23 @@ section.change {
 }
 /* End of Section 5 */
 
+.ah-kitchentext{
+  text-transform: uppercase;
+}
+
+.ah-maintenancetext{
+  text-decoration: none;
+}
+
+.ah-button :hover{
+  color: #111;
+}
+.ah-doorstext{
+  color: gray;
+}
+.ah-candlestext{
+  text-decoration: none;
+}
 /* Responsive */
 @media (max-width: 1500px) {
   .navbar {
