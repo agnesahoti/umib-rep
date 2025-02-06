@@ -381,6 +381,67 @@ section.change {
 .ah-candlestext{
   text-decoration: none;
 }
+.ah-basicfoods-heading {
+  font-size: 12rem;
+  color: #e76f51;
+}
+.section-description-ah {
+  font-size: 1.2rem;
+  color: #555;
+  text-align: center;
+  margin-top: 10px;
+  font-weight: 500;
+}
+.ah-essential-foods-heading { 
+  font-size: 12rem;
+  color: #e76f51;
+}
+.ah-rice {
+  color: #e76f51;  
+  font-size: 2rem;
+  text-transform: uppercase;  
+}
+.food-price {
+  color: #2a9d8f; 
+  font-size: 1.8rem;  
+  font-weight: bold; 
+}
+.card-btn {
+  background-color: #2a9d8f;  
+  color: white;  
+  padding: 10px 20px;  
+  border: none; 
+  border-radius: 5px;
+  font-size: 1.2rem; 
+  cursor: pointer; 
+} 
+.food-name {
+  color: #e76f51; 
+}
+
+.food-name.ah {
+  font-weight: bold; 
+  font-size: 1.5rem; 
+}
+.food-name-ah {
+  color: #e76f51; 
+}
+.food-price-ah {
+  font-size: 1.5rem;
+  color: #1e90ff;
+  font-weight: bold;
+}
+.food-price-ah {
+  font-size: 1.5rem;
+  color: #1e90ff; 
+  font-weight: bold;
+}
+.food-price-ah {
+  font-size: 1.5rem;
+  color: #1e90ff; 
+  font-weight: bold;
+  text-decoration: underline; 
+}
 /* Responsive */
 @media (max-width: 1500px) {
   .navbar {
