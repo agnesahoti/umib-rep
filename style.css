@@ -530,6 +530,24 @@ section.change {
   font-weight: bold; 
   color: darkgreen;   
 }
+.ah-accessory-price {
+  font-weight: bold;
+}
+.ah-device-name {
+  font-weight: bold; 
+}
+.ah-device-price {
+  font-weight: bold; 
+  color: darkgreen;
+}
+.ah-window-name {
+  font-weight: bold;
+}
+.ah-window-price {
+  font-weight: bold;   
+  color: darkgreen; 
+}
+
 
 
 /* Responsive */
