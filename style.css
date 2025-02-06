@@ -445,6 +445,40 @@ section.change {
 .ah-bathroom {
   color: #1e90ff; 
 }
+.ah-bathroom-name {
+  font-weight: bold; 
+}
+.ah-bathroom-price {
+  color: green; 
+  font-weight: bold;
+} 
+.ah-bathroom-name {
+  font-weight: bold;
+}
+.ah-candlestext {
+  color: blue;
+}
+.ah {
+  color:darkgreen; 
+}
+.ah-candles-name {
+  font-weight: bold; 
+}
+.ah-candles-price {
+  color: green; 
+  font-weight: bold; 
+}
+.ah-chairs-name {
+  font-weight: bold; 
+}
+.ah-chairs-price {
+  font-weight: bold; 
+  color: darkgreen;
+ }  
+ .ah {
+  color: black; 
+}
+
 /* Responsive */
 @media (max-width: 1500px) {
   .navbar {
