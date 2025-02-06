@@ -478,7 +478,28 @@ section.change {
  .ah {
   color: black; 
 }
-
+.ah-product-name {
+  font-weight: bold;  
+}
+.ah-product-price {
+  font-weight: bold;  
+  color: darkgreen;  
+}
+.ah-door-name {
+  font-weight: bold;
+}
+.ah-door-price {
+  font-weight: bold; 
+  color: darkgreen; 
+  
+} 
+.ah-appliance-name {
+  font-weight: bold; 
+}
+.ah-appliance-price {
+  font-weight: bold;  
+  color: darkgreen;
+} 
 /* Responsive */
 @media (max-width: 1500px) {
   .navbar {
